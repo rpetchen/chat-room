@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Ryan
+Build-Jdk: 12.0.2
+Implementation-Title: Chatroom
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: edu.udacity.java.nano
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/chatroom-starter
+Created-By: Maven Integration for Eclipse
+
